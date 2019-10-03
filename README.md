@@ -1,7 +1,7 @@
 # NCurses #
 Getting familiar with the ncurses library.
 
-## Getting NCurses on DebianUbuntu ##
+## Getting NCurses on Debian / Ubuntu ##
 ```bash
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
